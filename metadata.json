@@ -1,0 +1,6 @@
+{
+  "name": "Inducción y Caracterización SENA",
+  "description": "Prototipo interactivo de caracterización e inducción para aprendices SENA en modalidad presencial con rutas diferenciadas y normativa oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

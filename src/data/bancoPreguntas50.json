@@ -1,0 +1,605 @@
+{
+  "banco": "Repositorio Oficial de 50 Preguntas - Reglamento del Aprendiz SENA (Acuerdo 009 de 2024 y Res. 1825 de 2024)",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "Según el Artículo 1 del Acuerdo 009 de 2024, ¿cómo se define la Formación Profesional Integral (FPI)?",
+      "opciones": [
+        "Un proceso educativo teórico-práctico de carácter integral orientado al desarrollo técnico, tecnológico, humanista y de valores para el trabajo y la vida.",
+        "Un curso exclusivo de capacitación técnica sin componente humanista.",
+        "Una formación obligatoria únicamente virtual orientada a la administración pública.",
+        "Un programa de certificación empresarial sin tutoría institucional."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 1 define la FPI como un proceso educativo teórico-práctico integral que abarca conocimientos técnicos, tecnológicos, humanistas y habilidades socioemocionales."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cuál de los siguientes principios orientadores del reglamento (Artículo 3) reconoce a los aprendices como agentes corresponsables de su propio aprendizaje?",
+      "opciones": [
+        "Autonomía",
+        "Dignidad",
+        "Inclusión",
+        "Solidaridad"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El principio de Autonomía reconoce a los aprendices como capaces de asumir la responsabilidad de su propio proceso formativo."
+    },
+    {
+      "id": 3,
+      "pregunta": "De acuerdo con el Artículo 5, ¿dentro de cuántos días hábiles siguientes a la realización de una evaluación debe conocer el aprendiz sus resultados?",
+      "opciones": [
+        "Ocho (8) días hábiles",
+        "Tres (3) días hábiles",
+        "Quince (15) días hábiles",
+        "Veinte (20) días calendario"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 5 numeral 15 establece el derecho a conocer los resultados de las evaluaciones dentro de los ocho (8) días hábiles siguientes a su realización."
+    },
+    {
+      "id": 4,
+      "pregunta": "Según el Artículo 8 (Deberes), ¿cuándo debe un aprendiz informar sobre una inasistencia no programada por caso fortuito o fuerza mayor?",
+      "opciones": [
+        "A más tardar dentro de los cinco (5) días hábiles siguientes a su ocurrencia con los debidos soportes.",
+        "Con un mes de anticipación obligatoria.",
+        "No es necesario reportar inasistencias no programadas.",
+        "Al finalizar el trimestre lectivo."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 28 (Parágrafo 3) indica que las inasistencias no programadas deben informarse a más tardar dentro de los cinco (5) días hábiles siguientes a su ocurrencia con sus soportes."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué consecuencia genera el plagio de materiales, trabajos o actividades evaluativas según el Artículo 9 (Prohibiciones)?",
+      "opciones": [
+        "Constituye una prohibición explícita y falta grave o gravísima que da lugar a medida sancionatoria.",
+        "Está permitido si se cita la fuente de internet.",
+        "Solo genera un llamado de atención verbal sin registro.",
+        "No está regulado en el Acuerdo 009 de 2024."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 9 numeral 4 prohíbe explícitamente plagiar materiales, trabajos o actividades evaluativas del proceso formativo."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cuál es la edad mínima establecida en el Artículo 10 para el ingreso a los programas de formación profesional integral del SENA?",
+      "opciones": [
+        "Catorce (14) años",
+        "Dieciocho (18) años",
+        "Dieciséis (16) años",
+        "Doce (12) años"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 10 numeral 2 establece que la edad mínima de los aspirantes para ingreso a la FPI será de catorce (14) años."
+    },
+    {
+      "id": 7,
+      "pregunta": "Según el Artículo 18, ¿cuánto tiempo máximo puede autorizarse un aplazamiento de la formación por causas justificadas?",
+      "opciones": [
+        "Hasta por tres (3) meses calendario o lo definido por ley acorde a la duración del programa.",
+        "Exactamente 5 años.",
+        "Indefinido sin límite de tiempo.",
+        "Máximo 48 horas."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 18 especifica que el término de aplazamiento será hasta por tres (3) meses calendario o lo definido por ley, acorde a la duración del programa."
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Qué ocurre si un aprendiz no solicita su reintegro dentro de los 5 días previos al vencimiento de su aplazamiento (Artículo 18)?",
+      "opciones": [
+        "Se entiende como causal de deserción.",
+        "Se prorroga automáticamente por 10 años.",
+        "Se le otorga un título honorífico de inmediato.",
+        "Puede reingresar cuando lo desee sin restricciones."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 18 numeral 3 señala que de no solicitar el reintegro en el plazo establecido, se entiende como causal de deserción."
+    },
+    {
+      "id": 9,
+      "pregunta": "De acuerdo con el Artículo 30, ¿cuántos días continuos de inasistencia injustificada configuran deserción en formación presencial?",
+      "opciones": [
+        "Tres (3) días continuos",
+        "Diez (10) días continuos",
+        "Un (1) mes continuo",
+        "Doce (12) días continuos"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 30 numeral 1 literal a establece que en formación presencial se configura deserción al tener tres (3) días continuos de inasistencia injustificada o acumular cinco (5) días no continuos."
+    },
+    {
+      "id": 10,
+      "pregunta": "Según el Artículo 36, ¿cuáles son los únicos dos tipos de juicios de evaluación utilizados en el SENA?",
+      "opciones": [
+        "APROBADO y NO APROBADO",
+        "Excelente y Deficiente",
+        "Cuantitativo y Cualitativo con nota de 0 a 5",
+        "Aprobado con honores y Reprobado"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 36 define que en el SENA se utilizan dos tipos de juicios de evaluación: APROBADO o NO APROBADO."
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Qué procedimiento debe seguir un aprendiz si está en desacuerdo con la calificación de una evaluación (Artículo 38)?",
+      "opciones": [
+        "Solicita por escrito al instructor la revisión dentro de los dos (2) días hábiles siguientes, y de persistir el desacuerdo, solicita un segundo evaluador ante coordinación académica.",
+        "Presenta una demanda judicial ante el Consejo de Estado.",
+        "Destruye la evidencia de aprendizaje de inmediato.",
+        "Abandona el centro formativo sin previo aviso."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 38 detalla los pasos para la revisión de evaluaciones: solicitud escrita al instructor en 2 días hábiles y opción de segundo evaluador ante coordinación."
+    },
+    {
+      "id": 12,
+      "pregunta": "Según el Artículo 42, ¿cómo se clasifican las faltas académicas y disciplinarias en el SENA?",
+      "opciones": [
+        "Leves, Graves y Gravísimas",
+        "Simples, Complejas y Penales",
+        "Menores, Mayores y Supremas",
+        "Primer grado, Segundo grado y Tercer grado"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 42 clasifica las faltas en Leves, Graves y Gravísimas, previo cumplimiento del debido proceso."
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Qué es un Plan de Mejoramiento Académico según el Artículo 46?",
+      "opciones": [
+        "Una medida formativa pedagógica para garantizar el logro de resultados no superados en máximo 20 días calendario.",
+        "Una sanción disciplinaria que cancela la matrícula de por vida.",
+        "Un documento opcional que el aprendiz puede ignorar.",
+        "Un contrato de trabajo firmado con el Ministerio de Trabajo."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 46 define el plan de mejoramiento académico como una medida formativa pedagógica con duración máxima de 20 días calendario."
+    },
+    {
+      "id": 14,
+      "pregunta": "De acuerdo con el Artículo 47, ¿qué implica la medida sancionatoria de Condicionamiento de Matrícula?",
+      "opciones": [
+        "La pérdida temporal de estímulos e incentivos y un seguimiento estricto del compromiso formativo.",
+        "La expulsión definitiva e inapelable del SENA en el primer minuto.",
+        "La exoneración de todas las actividades lectivas.",
+        "Un ascenso automático a instructor del centro."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 47 señala que el condicionamiento de matrícula implica la pérdida de estímulos e incentivos vigentes mientras dure la medida."
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuáles son los dos equipos encargados de revisar, analizar y documentar las faltas para garantizar el debido proceso (Artículo 48)?",
+      "opciones": [
+        "El equipo ejecutor del grupo de formación y el Comité de Evaluación y Seguimiento.",
+        "La Policía Nacional y la Fiscalía General de la Nación.",
+        "El Consejo Directivo Nacional y el Ministerio de Educación.",
+        "Los compañeros de aula y el sindicato."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 48 establece el equipo ejecutor del grupo y el Comité de Evaluación y Seguimiento como responsables de valorar las medidas y sanciones."
+    },
+    {
+      "id": 16,
+      "pregunta": "Según el Artículo 49, ¿cuáles son las dos instancias decisorias para la aplicación de medidas sancionatorias?",
+      "opciones": [
+        "Primera instancia: Subdirección del Centro; Segunda instancia: Dirección Regional.",
+        "Primera instancia: El instructor; Segunda instancia: El Presidente de la República.",
+        "Primera instancia: El vocero de grupo; Segunda instancia: El Ministerio del Interior.",
+        "Única instancia: El centro de convivencia."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 49 indica que la primera instancia es la Subdirección del Centro y la segunda instancia es la Dirección Regional."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Qué principio rector del régimen sancionatorio (Artículo 39) establece que nadie puede ser investigado dos veces por el mismo hecho?",
+      "opciones": [
+        "Inexistencia de doble sanción",
+        "Presunción de inocencia",
+        "Confidencialidad absoluta",
+        "Culpabilidad por dolo"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El principio de inexistencia de doble sanción garantiza que ningún aprendiz sea sancionado o investigado dos veces por el mismo hecho."
+    },
+    {
+      "id": 18,
+      "pregunta": "De acuerdo con el Artículo 3, ¿en qué consiste el enfoque territorial del SENA?",
+      "opciones": [
+        "Una visión sistémica y holística del territorio para potenciar capacidades locales y cooperación.",
+        "Delimitar fronteras estrictas entre centros de formación sin colaboración.",
+        "Impedir el traslado de aprendices entre regionales.",
+        "Exigir residencia en Bogotá a todos los aprendices."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 3 numeral 5 define el enfoque territorial como una visión sistémica para potenciar las capacidades locales y el aprovechamiento de recursos."
+    },
+    {
+      "id": 19,
+      "pregunta": "Según el Artículo 5, ¿tiene derecho el aprendiz a recibir elementos de protección personal (EPP)?",
+      "opciones": [
+        "Sí, de manera oportuna por parte del Centro de Formación para actividades prácticas que lo requieran.",
+        "No, el aprendiz debe costear obligatoriamente todos los EPP industriales de alta gama.",
+        "Solo si cuenta con un patrocinador externo de la industria privada.",
+        "Los EPP están prohibidos en los talleres del SENA."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 5 numeral 5 consagra el derecho a recibir oportunamente los elementos de protección personal (EPP) para salvaguardar la integridad física."
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Qué establece el Artículo 7 sobre la representatividad de los aprendices?",
+      "opciones": [
+        "Es una estrategia democrática y participativa que incluye representantes por jornada/modalidad y voceros de grupo o enfoques diferenciales.",
+        "Es un cargo político remunerado por el Congreso de la República.",
+        "Es opcional y solo aplica para aprendices de posgrado.",
+        "Prohíbe la elección de voceros estudiantiles en los centros."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 7 define la representatividad como un ejercicio democrático, participativo y plural mediante representantes de centro y voceros de grupo."
+    },
+    {
+      "id": 21,
+      "pregunta": "Según el Artículo 8, ¿cuál es uno de los deberes fundamentales al momento de asentar la matrícula?",
+      "opciones": [
+        "Suscribir el acta de compromiso como aprendiz SENA.",
+        "Pagar una matrícula monetaria elevada en efectivo al director.",
+        "Comprar acciones del SENA en la bolsa de valores.",
+        "Renunciar a los derechos civiles en Colombia."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 8 numeral 1 establece el deber de suscribir el acta de compromiso al momento de asentar la matrícula."
+    },
+    {
+      "id": 22,
+      "pregunta": "De acuerdo con el Artículo 9, ¿está permitido realizar acciones proselitistas de carácter político o religioso en las instalaciones del SENA?",
+      "opciones": [
+        "No, está estrictamente prohibido realizar acciones proselitistas políticas o religiosas en ambientes formativos.",
+        "Sí, siempre y cuando se hagan en horas de la madrugada.",
+        "Es obligatorio para aprobar los trimestres lectivos.",
+        "Solo si lo autoriza el vocero de grupo."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 9 numeral 11 prohíbe realizar acciones proselitistas de carácter político o religioso dentro de las instalaciones físicas y virtuales."
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Qué estipula el Artículo 10 respecto a los aspirantes a programas de formación tecnológica?",
+      "opciones": [
+        "Deben contar con título de bachiller y certificación de la prueba ICFES (Saber 11).",
+        "No se exige ningún estudio previo ni primaria.",
+        "Deben tener título universitario de posgrado.",
+        "Tener una edad superior a 50 años obligatoriamente."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 10 numeral 3 exige título de bachiller y resultados de la prueba ICFES (Saber 11) para programas tecnológicos."
+    },
+    {
+      "id": 24,
+      "pregunta": "Según el Artículo 14, ¿cómo se compone habitualmente el proceso de selección de aspirantes en el SENA?",
+      "opciones": [
+        "Prueba de competencias web (Fase I) y prueba controlada o taller (Fase II, discrecional).",
+        "Una única rifa al azar realizada por televisión.",
+        "Una entrevista personal secreta con el Presidente.",
+        "La presentación obligatoria de una tesis doctoral."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 14 describe la selección mediante prueba web Fase I y prueba controlada o taller Fase II."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué establece el Artículo 15 sobre la condición de aprendiz con la matrícula?",
+      "opciones": [
+        "Con la matrícula se adquiere o renueva la calidad de aprendiz y se acepta el reglamento institucional.",
+        "Es un trámite honorífico sin compromisos normativos.",
+        "Permite asistir a clases sin estar registrado en el sistema.",
+        "Tiene validez únicamente por 24 horas."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 15 indica que mediante la matrícula el aspirante adquiere la calidad de aprendiz y asume el compromiso de cumplir el reglamento."
+    },
+    {
+      "id": 26,
+      "pregunta": "Según el Artículo 26, ¿cómo se divide la ruta de formación en programas de formación laboral o tecnológica?",
+      "opciones": [
+        "Etapa lectiva y etapa productiva.",
+        "Etapa teórica virtual y etapa de vacaciones permanentes.",
+        "Semestre básico y semestre de posgrado.",
+        "Fase de inducción y fase de graduación automática."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 26 establece que la ruta de formación está conformada por la etapa lectiva y la etapa productiva."
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Cuáles son algunas de las alternativas válidas para el desarrollo de la etapa productiva (Artículo 26)?",
+      "opciones": [
+        "Contrato de aprendizaje, proyecto productivo, vínculo laboral, monitoria y prácticas en la economía popular/campesina.",
+        "Únicamente turismo internacional por 6 meses.",
+        "Trabajar en una empresa fantasma sin registro.",
+        "No realizar ninguna actividad y reclamar título."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 26 lista las alternativas como contrato de aprendizaje, vínculo laboral, proyecto productivo, monitoria y prácticas en la economía popular."
+    },
+    {
+      "id": 28,
+      "pregunta": "Según el Artículo 28, ¿cuál es el plazo máximo de inasistencia por razones laborales excepcionales que se considera justificado en un trimestre?",
+      "opciones": [
+        "No mayores a tres (3) días en el trimestre, de forma continua o por intervalo.",
+        "Exactamente 90 días hábiles continuos.",
+        "Todo el trimestre lectivo completo.",
+        "Cualquier cantidad de días sin límite."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 28 numeral 1 literal c establece que los requerimientos laborales no pueden ser mayores a tres (3) días en el trimestre."
+    },
+    {
+      "id": 29,
+      "pregunta": "De acuerdo con el Artículo 33, ¿de qué tipos pueden ser las evidencias de aprendizaje en el SENA?",
+      "opciones": [
+        "De conocimiento, de desempeño y de producto.",
+        "Únicamente exámenes orales sorpresa.",
+        "Videos musicales y obras de teatro obligatorias.",
+        "Certificados bancarios de ahorro."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 33 define que las evidencias de aprendizaje pueden ser de conocimiento, de desempeño y de producto."
+    },
+    {
+      "id": 30,
+      "pregunta": "Según el Artículo 34, ¿cuál es uno de los principios rectores del proceso de evaluación del aprendizaje?",
+      "opciones": [
+        "Participación, Validez, Transparencia y Confiabilidad.",
+        "Subjetividad absoluta del instructor.",
+        "Ocultamiento de notas a los aprendices.",
+        "Evaluación secreta sin previo aviso."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 34 enumera los principios de la evaluación: Participación, Validez, Transparencia y Confiabilidad."
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Qué establece el Artículo 40 respecto a la aplicación de medidas disciplinarias y formativas?",
+      "opciones": [
+        "Se aplican según la tipificación de la falta cometida en centros, sedes o ambientes externos en representación institucional.",
+        "Se aplican al azar por sorteo en la cafetería.",
+        "No tienen validez jurídica en Colombia.",
+        "Solo se aplican a los instructores y directivos."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 40 indica que las medidas se aplican de acuerdo con la tipificación de la falta cometida en cualquier sede o ambiente de formación."
+    },
+    {
+      "id": 32,
+      "pregunta": "Según el Artículo 41, ¿cómo se diferencian las faltas académicas de las disciplinarias?",
+      "opciones": [
+        "Las académicas se relacionan con deberes de índole académico; las disciplinarias con factores comportamentales.",
+        "Son exactamente lo mismo sin distinción alguna.",
+        "Las académicas solo ocurren en la biblioteca y las disciplinarias en la calle.",
+        "Las disciplinarias no tienen sanción."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 41 diferencia las faltas académicas (deberes de índole académico) de las disciplinarias (factores comportamentales)."
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Qué son las Medidas Formativas Disciplinarias según el Artículo 46?",
+      "opciones": [
+        "Acciones preventivas o correctivas de carácter comportamental, actitudinal o social (llamado de atención escrito y plan de mejoramiento disciplinario).",
+        "Sanciones penales ejecutadas por la cárcel nacional.",
+        "Un bono económico de recompensa.",
+        "Exámenes escritos de matemáticas avanzadas."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 46 define las medidas formativas disciplinarias como acciones preventivas o correctivas comportamentales (llamado de atención y plan disciplinario)."
+    },
+    {
+      "id": 34,
+      "pregunta": "Según el Artículo 50, ¿qué garantiza el criterio de Publicidad en el procedimiento sancionatorio?",
+      "opciones": [
+        "Que todo procedimiento por falta disciplinaria o académica debe ser informado desde su inicio al aprendiz investigado.",
+        "Que las sanciones se publiquen en periódicos nacionales de circulación masiva.",
+        "Que los estudiantes voten públicamente para condenar a un compañero.",
+        "Que no se requiere notificar al aprendiz."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 50 numeral 1 consagra el principio de publicidad: todo procedimiento debe ser informado desde su inicio al aprendiz."
+    },
+    {
+      "id": 35,
+      "pregunta": "De acuerdo con el Artículo 50, ¿cómo opera la Presunción de Inocencia en las investigaciones al aprendiz?",
+      "opciones": [
+        "Toda investigación parte de la presunción de inocencia; la carga de la prueba recae sobre la institución y la duda se resuelve a favor del aprendiz.",
+        "El aprendiz es culpable hasta que demuestre lo contrario con 10 testigos.",
+        "No existe la presunción de inocencia en el SENA.",
+        "Los instructores deciden la culpabilidad sin pruebas."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 50 numeral 3 establece la presunción de inocencia: la carga probatoria es institucional y la duda se resuelve a favor del aprendiz."
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Qué establece el Artículo 52 en relación con los certificados de conducta y sanciones?",
+      "opciones": [
+        "El SENA expide certificados de conducta solo por solicitud del aprendiz o con su autorización, reflejando sanciones de los últimos 5 años.",
+        "Se envían automáticamente a todos los vecinos del aprendiz.",
+        "Están prohibidos por ley en Colombia.",
+        "Tienen validez vitalicia sin importar el tiempo transcurrido."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 52 estipula que el SENA expide certificados de conducta solo a solicitud del aprendiz, reflejando sanciones de los últimos 5 años."
+    },
+    {
+      "id": 37,
+      "pregunta": "Según la Resolución 1825 de 2024, ¿cuál es el eje metodológico central de la Formación Profesional Integral en el SENA?",
+      "opciones": [
+        "El desarrollo por competencias y proyectos formativos en ambientes especializados.",
+        "La memorización estricta de manuales teóricos sin práctica.",
+        "Clases magistrales pasivas de 10 horas diarias.",
+        "Exámenes trimestrales de opción múltiple exclusivamente."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "La Resolución 1825 de 2024 enfatiza el enfoque por competencias y proyectos formativos articulados con ambientes especializados."
+    },
+    {
+      "id": 38,
+      "pregunta": "Si un aprendiz menor de edad ingresa a un programa de formación titulada del SENA, ¿quién debe firmar el consentimiento informado (Artículo 10)?",
+      "opciones": [
+        "Uno de los padres de familia, el acudiente o el apoderado, junto con el asentimiento del aprendiz.",
+        "Únicamente el alcalde del municipio.",
+        "Cualquier transeúnte mayor de edad.",
+        "No se requiere autorización para menores de edad."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 10 exige que para menores de edad uno de los padres o acudientes firme el consentimiento informado y el aprendiz su asentimiento."
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Qué indica el Artículo 11 sobre el registro de datos básicos en el sistema de gestión académica?",
+      "opciones": [
+        "El registro es único, personal e intransferible, y la actualización de datos es exclusiva responsabilidad del usuario.",
+        "Puede compartirse con cualquier amigo o familiar libremente.",
+        "Se borra automáticamente cada 24 horas.",
+        "Es un proceso opcional que no requiere documento de identidad."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 11 establece que el registro es único, personal e intransferible, siendo responsabilidad del usuario mantener sus datos actualizados."
+    },
+    {
+      "id": 40,
+      "pregunta": "De acuerdo con el Artículo 19, ¿cuál es el plazo máximo con que cuenta el Centro de Formación para expedir el certificado una vez entregadas las evidencias?",
+      "opciones": [
+        "Máximo treinta (30) días calendario",
+        "Exactamente 24 horas",
+        "Seis (6) meses calendario",
+        "Dos (2) años"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 19 establece que el Centro cuenta con máximo treinta (30) días calendario para registrar y expedir el certificado."
+    },
+    {
+      "id": 41,
+      "pregunta": "Según el Artículo 20, ¿tienen algún costo los documentos académicos (títulos, actas de grado, constancias) expedidos por el SENA?",
+      "opciones": [
+        "Son expedidos por el Centro de Formación sin ningún costo para el aprendiz (descargables digitalmente).",
+        "Tienen un costo elevado por cada copia digital.",
+        "Solo son gratuitos para funcionarios públicos.",
+        "Requieren pago en efectivo en notarías."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 20 especifica que los documentos académicos se expiden sin ningún costo para el aprendiz y se descargan digitalmente."
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Qué establece el Artículo 23 sobre las condiciones para solicitar el reingreso al SENA tras un retiro o cancelación?",
+      "opciones": [
+        "Haber cursado un programa sin titularse, estar reportada su desvinculación y solicitarlo por escrito (solo por una única vez).",
+        "Puede solicitarse de manera ilimitada todas las semanas del año.",
+        "No requiere cumplir ninguna condición ni haber estado matriculado antes.",
+        "Estar vetado permanentemente de por vida."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 23 indica las condiciones de reingreso (haber cursado sin titularse, desvinculación reportada y solicitud escrita por única vez)."
+    },
+    {
+      "id": 43,
+      "pregunta": "Según el Artículo 27, ¿cuándo se configura el cumplimiento satisfactorio del proceso formativo?",
+      "opciones": [
+        "Cuando el aprendiz presenta evidencias idóneas y pertinentes en fechas establecidas y asiste activamente a las actividades.",
+        "Cuando el aprendiz nunca asiste pero envía cartas de felicitación.",
+        "Cuando el instructor aprueba al aprendiz sin evaluar evidencias.",
+        "Al pagar una cuota de mantenimiento trimestral."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 27 define el cumplimiento satisfactorio como la presentación de evidencias idóneas y participación activa en la ruta de aprendizaje."
+    },
+    {
+      "id": 44,
+      "pregunta": "De acuerdo con el Artículo 32, ¿cómo se realiza la evaluación del proceso de aprendizaje en el SENA?",
+      "opciones": [
+        "De forma continua y conjunta entre aprendiz e instructor, evaluando la aplicación del conocimiento en prácticas concretas.",
+        "Mediante un único examen final de opción múltiple secreto.",
+        "A través de votaciones populares en redes sociales.",
+        "Por sorteo aleatorio de notas trimestrales."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 32 establece que la evaluación es continua y conjunta, dirigida a evaluar la aplicación práctica del conocimiento."
+    },
+    {
+      "id": 45,
+      "pregunta": "Según el Artículo 39, ¿cuál es el principio que exige custodiar y reservar la información en procesos disciplinarios?",
+      "opciones": [
+        "Confidencialidad",
+        "Publicidad masiva en televisión",
+        "Divulgación obligatoria en redes sociales",
+        "Transparencia pública de expedientes privados"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 39 numeral 1 establece la confidencialidad para garantizar la custodia y reserva de la información velando por la intimidad personal."
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Qué establece el Artículo 47 sobre la medida de Cancelación de Matrícula?",
+      "opciones": [
+        "Es un acto administrativo que se origina por faltas graves o gravísimas, persistir en causales de condicionamiento o deserción.",
+        "Una felicitación pública entregada en el auditorio central.",
+        "Un permiso especial para vacacionar 2 meses.",
+        "Un ascenso automático a coordinador académico."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 47 define la cancelación de matrícula como el acto administrativo originado por faltas graves/gravísimas, deserción o incumplimiento de condicionamiento."
+    },
+    {
+      "id": 47,
+      "pregunta": "De acuerdo con el Artículo 51, ¿qué derechos tiene el aprendiz citado a una sesión del Comité de Evaluación y Seguimiento?",
+      "opciones": [
+        "Astar presente en la recepción de pruebas, ejercer su derecho de defensa, contradicción, presentar descargos y no inculparse.",
+        "A ser condenado sin derecho a hablar ni aportar pruebas.",
+        "A delegar a cualquier persona ajena a la institución para que asuma su culpa.",
+        "A no enterarse jamás de la citación."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 51 detalla los derechos del aprendiz en el comité: contradicción de pruebas, descargos, derecho a defensa y a no inculparse."
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Qué indica el Artículo 53 sobre la sujeción normativa del Reglamento del Aprendiz?",
+      "opciones": [
+        "Se aplica con total sujeción a la Constitución, la ley y normas subsidiarias de la formación profesional integral.",
+        "Está por encima de la Constitución Política de Colombia.",
+        "Es un documento meramente decorativo sin validez jurídica.",
+        "Solo rige en días festivos."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 53 estipula la sujeción total del reglamento a la Constitución, la ley y los principios de la formación profesional integral."
+    },
+    {
+      "id": 49,
+      "pregunta": "Según la Ley 119 de 1994 y citada en los considerandos del Acuerdo 009 de 2024, ¿cuál es la misión principal del SENA?",
+      "opciones": [
+        "Invertir en el desarrollo social y técnico de los trabajadores colombianos ofreciendo Formación Profesional Integral.",
+        "Operar como un banco comercial privado de inversión.",
+        "Diseñar leyes para el Congreso de la República.",
+        "Comercializar bienes inmuebles particulares."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "La Ley 119 de 1994 le encarga al SENA invertir en el desarrollo social y técnico de los trabajadores mediante la FPI."
+    },
+    {
+      "id": 50,
+      "pregunta": "Durante la etapa productiva (Artículo 26), ¿cuál es la edad mínima exigida para su ingreso con autorización del inspector de trabajo?",
+      "opciones": [
+        "Quince (15) años",
+        "Dieciocho (18) años",
+        "Catorce (14) años",
+        "Veintiún (21) años"
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "El Artículo 26 establece que la edad mínima para ingreso a la etapa productiva será de quince (15) años, previa autorización del inspector de trabajo."
+    }
+  ]
+}

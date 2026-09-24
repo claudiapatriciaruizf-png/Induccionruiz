@@ -1,0 +1,173 @@
+{
+  "documento": "Acuerdo 9 de 2024",
+  "entidad": "Servicio Nacional de Aprendizaje - SENA",
+  "descripcion": "Reglamento del Aprendiz SENA",
+  "capitulos": [
+    {
+      "numero": "I",
+      "titulo": "Definiciones y Principios Orientadores",
+      "articulos": [
+        {
+          "articulo": "Artículo 1",
+          "nombre": "Definiciones",
+          "contenido": "Incluye definiciones clave como Formación Profesional Integral (FPI), Comunidad Educativa SENA, Aspirante, Aprendiz y Grupo."
+        },
+        {
+          "articulo": "Artículo 3",
+          "nombre": "Principios Orientadores",
+          "contenido": "Autonomía, Dignidad, Inclusión, Enfoque diferencial, Enfoque territorial, Participación, Desarrollo sostenible y Solidaridad."
+        }
+      ]
+    },
+    {
+      "numero": "II",
+      "titulo": "Derechos del Aprendiz SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 5",
+          "nombre": "Derechos del Aprendiz",
+          "items": [
+            "Recibir inducción integral y conocer el reglamento.",
+            "Recibir formación profesional integral de calidad con talento humano y recursos suficientes.",
+            "Ser acreditado como aprendiz SENA.",
+            "Tener a su alcance infraestructura, equipos, laboratorios y recursos tecnológicos.",
+            "Recibir oportunamente elementos de protección personal (EPP).",
+            "Disfrutar de los beneficios del plan nacional integral de bienestar al aprendiz.",
+            "Tener el debido proceso en todas las etapas formativas, administrativas y disciplinarias.",
+            "Ser evaluado objetiva e integralmente y conocer resultados en 8 días hábiles."
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "III",
+      "titulo": "Deberes del Aprendiz SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 8",
+          "nombre": "Deberes del Aprendiz",
+          "items": [
+            "Suscribir el acta de compromiso al asentar matrícula.",
+            "Conocer y cumplir el reglamento del aprendiz y normas SENA.",
+            "Asistir con puntualidad a todas las actividades formativas presenciales o virtuales.",
+            "Cumplir con las actividades y presentar evidencias según cronograma y guías.",
+            "Hacer uso apropiado de los ambientes de formación, equipos e instalaciones.",
+            "Respetar derechos de autor y propiedad intelectual.",
+            "Realizar personalmente evaluaciones y actividades con esfuerzo y autoría propia.",
+            "Usar apropiadamente los Elementos de Protección Personal (EPP)."
+          ]
+        },
+        {
+          "articulo": "Artículo 9",
+          "nombre": "Prohibiciones",
+          "items": [
+            "Aportar documentos falsos o adulterados en ningún trámite o ingreso.",
+            "Suplantar identidad en trámites académicos o administrativos.",
+            "Plagiar materiales, trabajos o actividades evaluativas.",
+            "Ingresar, consumir o comercializar bebidas alcohólicas o sustancias psicoactivas.",
+            "Portar armas u objetos cortopunzantes en centros de formación.",
+            "Realizar actos de acoso (bullying, mobbing) o discriminación."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluacionInteractiva": [
+    {
+      "id": 1,
+      "pregunta": "Un aprendiz necesita ausentarse por motivos médicos durante 3 días y presenta incapacidad de la EPS. Según el Acuerdo 009 de 2024, ¿cómo se clasifica esta inasistencia?",
+      "opciones": [
+        "Incumplimiento injustificado que genera llamada de atención inmediata.",
+        "Incumplimiento justificado, ya que las incapacidades médicas son causales válidas soportadas.",
+        "Causal automática de deserción sin derecho a descargos.",
+        "Falta gravísima con cancelación inmediata de matrícula."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Incorrecto! Según el Artículo 28 del Acuerdo 009 de 2024, las incapacidades médicas expedidas por la EPS constituyen un incumplimiento justificado, siempre que se informen oportunamente con los soportes correspondientes al instructor."
+    },
+    {
+      "id": 2,
+      "pregunta": "Durante una evaluación práctica en los talleres del SENA, un aprendiz utiliza un taladro sin las gafas de protección requeridas por seguridad industrial. ¿Qué deber del aprendiz está incumpliendo?",
+      "opciones": [
+        "El deber de usar apropiadamente los Elementos de Protección Personal (EPP) y aplicar buenas prácticas de SST (Artículo 8, numeral 15).",
+        "Ninguno, el uso de elementos de protección es opcional en modalidad presencial.",
+        "El deber de realizar trámites de traslado académico.",
+        "El derecho a solicitar reconocimientos formativos."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "¡Revisa con atención! El Artículo 8 (numeral 15) establece como deber fundamental usar apropiadamente los elementos de protección personal y aplicar las normas de seguridad y salud en el trabajo (SST) para salvaguardar la vida e integridad."
+    },
+    {
+      "id": 3,
+      "pregunta": "Si un aprendiz acumula inasistencias injustificadas en formación presencial, ¿cuándo se configura la deserción según el Artículo 30?",
+      "opciones": [
+        "Al faltar solo 1 día sin justificación.",
+        "Al tener tres (3) días continuos de inasistencia injustificada o acumular cinco (5) días no continuos.",
+        "Al no asistir durante 20 días seguidos en cualquier modalidad.",
+        "Únicamente al finalizar la etapa lectiva sin previo aviso."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Atención! El Artículo 30 del Acuerdo 009 de 2024 especifica claramente que en formación presencial la deserción por inasistencia se configura al tener tres (3) días continuos o cinco (5) días no continuos de inasistencia injustificada."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué instancia y procedimiento se sigue si un aprendiz no está de acuerdo con el resultado de una evaluación según el Artículo 38?",
+      "opciones": [
+        "Debe abandonar el programa de formación sin derecho a réplica.",
+        "Solicita por escrito al instructor la revisión en los dos (2) días hábiles siguientes, y si persiste el desacuerdo, puede solicitar un segundo evaluador ante la coordinación académica.",
+        "Presenta una queja directa ante el Ministerio de Educación Nacional.",
+        "Debe repetir todo el trimestre lectivo sin importar la nota."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Incorrecto! El Artículo 38 garantiza el derecho de revisión: el aprendiz solicita por escrito al instructor en 2 días hábiles, y de persistir el desacuerdo, solicita un segundo evaluador ante la coordinación académica en los 2 días hábiles siguientes."
+    },
+    {
+      "id": 5,
+      "pregunta": "Según el Artículo 5 del Acuerdo 009 de 2024, ¿cuál de los siguientes es un derecho fundamental del aprendiz SENA?",
+      "opciones": [
+        "Modificar el diseño curricular del programa a voluntad propia.",
+        "Recibir formación profesional integral de calidad y hacer uso de la infraestructura y recursos tecnológicos.",
+        "Exigir la exoneración total de la etapa productiva sin justificación.",
+        "Impartir instrucciones académicas en reemplazo del instructor titular."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Incorrecto! El Artículo 5 consagra el derecho a recibir formación profesional integral de calidad y tener a su alcance la infraestructura, recursos físicos, técnicos y tecnológicos del centro de formación."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Qué consecuencia acarrea para un aprendiz aportar documentos falsos o adulterados en el proceso de inscripción o matrícula según el Artículo 9?",
+      "opciones": [
+        "Se considera una prohibición grave que da lugar a la cancelación de matrícula y acciones legales pertinentes.",
+        "Es una falta leve que se subsana con un llamado de atención verbal.",
+        "No genera ninguna consecuencia si el estudiante obtiene buenas notas después.",
+        "Se le otorga una beca de honor por creatividad."
+      ],
+      "respuestaCorrecta": 0,
+      "refuerzoPedagogico": "¡Atención! El Artículo 9 (numerales 1 y 3) tipifica como prohibición estricta aportar documentos falsos o adulterados, lo cual constituye causal de cancelación de matrícula y posible denuncia penal."
+    },
+    {
+      "id": 7,
+      "pregunta": "En cuanto a los juicios de evaluación en el SENA (Artículo 36), ¿cuáles son los dos únicos tipos que se emplean?",
+      "opciones": [
+        "Sobresaliente y Deficiente.",
+        "APROBADO y NO APROBADO.",
+        "Aceptable y Reprobado con mención.",
+        "Cuantitativo (0 a 5) y Cualitativo (A a D)."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Revisa el reglamento! El Artículo 36 establece que en el SENA se utilizan dos tipos de juicios de evaluación para expresar los resultados: APROBADO o NO APROBADO."
+    },
+    {
+      "id": 8,
+      "pregunta": "De acuerdo con el Artículo 46, ¿cuál es el propósito de un Plan de Mejoramiento Académico?",
+      "opciones": [
+        "Sancionar al aprendiz expulsándolo definitivamente del centro de formación sin previo aviso.",
+        "Acción pedagógica formativa adoptada cuando no se superan resultados de aprendizaje, para garantizar su logro en un plazo máximo de 20 días calendario.",
+        "Un documento opcional que el aprendiz puede ignorar si lo desea.",
+        "Un premio otorgado al mejor estudiante del trimestre."
+      ],
+      "respuestaCorrecta": 1,
+      "refuerzoPedagogico": "¡Incorrecto! El Artículo 46 define el plan de mejoramiento académico como una medida formativa pedagógica concertada para garantizar el logro de los resultados de aprendizaje no superados, con duración máxima de 20 días calendario."
+    }
+  ]
+}
